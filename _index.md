@@ -5,7 +5,7 @@ description: "Shadocs theme homepage"
 categories: ["Theme"]
 ---
 
-Hello world from 1.1 docs version
+Hello world from separate repo version
 
 
 {{< intro
